@@ -1,8 +1,4 @@
 Hello world!
 How are you?
 Hi from krasobas!
-<<<<<<< HEAD
-krasobas what's up?
-=======
-I'd like to work with you!
->>>>>>> krasobas
+Hi from remote!
