@@ -1,5 +1,9 @@
 Hello world!
 How are you?
 Hi from krasobas!
+<<<<<<< HEAD
 Hi from remote!
 I'm fine! And you?
+=======
+Hi from remote! Is everything OK?
+>>>>>>> refs/remotes/origin/master
